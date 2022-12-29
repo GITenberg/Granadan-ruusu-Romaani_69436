@@ -1,6 +1,9 @@
 _repo: Granadan-ruusu-Romaani_69436
 _version: 0.1.0
 alternative_title: La rose de Grenade. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rameau, Jean
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46019
     wikipedia: https://fr.wikipedia.org/wiki/Jean_Rameau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69436#Granadan-ruusu-Romaani
 gutenberg_issued: '2022-11-28'
 identifiers:
   gutenberg: '69436'
